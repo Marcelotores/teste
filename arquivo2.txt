@@ -1,1 +1,2 @@
 Linha do arquivo
+Outra alteração, agora no arquivo 2
